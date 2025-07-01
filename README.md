@@ -3,7 +3,7 @@
 
 ---
 
-🌟 Passionate about building scalable,secure and high-performance and user-friendly enterprise applications and SaaS products using Oracle APEX.
+🌟 Passionate about building scalable, secure, high-performance and user-friendly enterprise applications and SaaS products using Oracle APEX.
 
 🔧 I specialize in full-stack APEX development with robust backend logic, RESTful APIs, and secure authentication.
 
