@@ -5,7 +5,7 @@
 
 🌟 Passionate about building scalable, secure, high-performance, and user-friendly enterprise applications and SaaS products using Oracle APEX.
 
-I am an Oracle APEX Professional and OCP-Certified Developer, skilled in designing, developing, and integrating secure and scalable applications. I specialize in transforming complex business requirements into efficient, intuitive solutions—delivered on time using low-code technology.
+I am an Oracle APEX Professional and OCP-Certified Developer, skilled in designing, developing, and integrating secure and scalable applications. I specialize in transforming complex business requirements into efficient, intuitive solutions—delivered on time using low-code (Oracle APEX) technology.
 
 With over 10 years of experience, I bring deep expertise in designing and developing Oracle database-centric distributed web applications, primarily with Oracle APEX. My background includes advanced APEX development, technical analysis, requirements gathering, database design, programming, testing, and full-cycle implementation.
 
