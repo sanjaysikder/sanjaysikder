@@ -10,6 +10,40 @@ I am an Oracle APEX Professional and OCP-Certified Developer, skilled in designi
 With over 10 years of experience, I bring deep expertise in designing and developing Oracle database-centric distributed web applications, primarily with Oracle APEX. My background includes advanced APEX development, technical analysis, requirements gathering, database design, programming, testing, and full-cycle implementation.
 
 ---
+## ✅ My Experience with Oracle APEX Technology
+
+- ✔ **Apex Universal Theme**
+- ✔ **Oracle APEX Versions:** 5.0 – 24.2.2
+- ✔ **Oracle Database Versions:** 11g to 21c
+- ✔ **ORDS (Oracle REST Data Services)**
+- ✔ **Complete SDLC Knowledge (Software Development Life Cycle)**
+- ✔ **RESTful APIs / OAuth2 / Web Services**
+- ✔ **AJAX Callbacks**
+- ✔ **Version Upgrades**
+- ✔ **Charts & Graphs**
+- ✔ **APEX Plugins**
+- ✔ **HTML Reports (Printable)**
+- ✔ **Third-party Payment Gateway Integration**
+- ✔ **Third-party SMS Gateway Integration**
+- ✔ **Dynamic Actions**
+- ✔ **APEX Collections & Application Processes**
+- ✔ **Classic & Interactive Reports**
+- ✔ **Interactive Grid (APEX 5.0 – 24.2)**
+- ✔ **Data Export & Import Utility**
+- ✔ **Custom Multi-Functional Calendar**
+- ✔ **Custom User Login Management**  
+  *(Authentication & Role Management)*
+- ✔ **Custom & Dynamic Master Menu Management**
+- ✔ **Custom & Dynamic Top Navigation Bar**
+- ✔ **Email Integration:**  
+  Email Verification, Transactions, Leave Approval, Forgot Password
+- ✔ **Social Sign-In Integration:**  
+  Google, Facebook, LinkedIn
+- ✔ **Central Login Policy for Multiple Applications**
+- ✔ **Third-party SSO Integration**
+
+
+---
 
 ## 🧰 Tech Stack
 
