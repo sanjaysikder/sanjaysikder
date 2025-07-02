@@ -65,15 +65,6 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 
 ---
 
-## 🧱 Tech Stack Overview
-
-- 🔷 **Oracle APEX**, **PL/SQL**, **SQL**
-- 💻 **JavaScript**, **HTML5**, **CSS3**
-- 🌐 **REST API**, **JSON**, **OAuth2**
-- ☁️ **Oracle Cloud Infrastructure**
-- 🔐 **SSO Integration**, **Azure AD / Entra ID**
-
----
 ## 🚀 Featured Projects
 
 ### 👮‍♂️ Bangladesh Police
