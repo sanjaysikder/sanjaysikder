@@ -5,28 +5,29 @@
 
 🌟 Passionate about building scalable, secure, high-performance, and user-friendly enterprise applications and SaaS products using Oracle APEX.
 
-I am an Oracle APEX Professional and OCP-Certified Developer, skilled in designing, developing, and integrating secure and scalable applications. I specialize in transforming complex business requirements into efficient, intuitive solutions—delivered on time using low-code (Oracle APEX) technology.
+I am an **Oracle APEX Professional** and **OCP-Certified Developer**, skilled in designing, developing, and integrating secure, scalable applications. I specialize in transforming complex business requirements into efficient, intuitive solutions—delivered on time using low-code Oracle APEX technology.
 
-With over 10 years of experience, I bring deep expertise in designing and developing Oracle database-centric distributed web applications, primarily with Oracle APEX. My background includes advanced APEX development, technical analysis, requirements gathering, database design, programming, testing, and full-cycle implementation.
+With over **10 years of experience**, I bring deep expertise in Oracle database-centric distributed web applications, with a strong background in APEX development, technical analysis, requirements gathering, database design, programming, testing, and full-cycle implementation.
 
 ---
+
 ## ✅ My Experience with Oracle APEX Technology
 
-- ✔ **Apex Universal Theme**
+- ✔ **Universal Theme**
 - ✔ **Oracle APEX Versions:** 5.0 – 24.2.2
 - ✔ **Oracle Database Versions:** 11g to 21c
 - ✔ **ORDS (Oracle REST Data Services)**
-- ✔ **Complete SDLC Knowledge (Software Development Life Cycle)**
+- ✔ **Complete SDLC Understanding**
 - ✔ **RESTful APIs / OAuth2 / Web Services**
 - ✔ **AJAX Callbacks**
-- ✔ **Version Upgrades**
+- ✔ **APEX Version Upgrades**
 - ✔ **Charts & Graphs**
-- ✔ **APEX Plugins**
-- ✔ **HTML Reports (Printable)**
+- ✔ **Custom APEX Plugins**
+- ✔ **Printable HTML Reports**
 - ✔ **Third-party Payment Gateway Integration**
-- ✔ **Third-party SMS Gateway Integration**
+- ✔ **SMS Gateway Integration**
 - ✔ **Dynamic Actions**
-- ✔ **APEX Collections & Application Processes**
+- ✔ **Collections & Application Processes**
 - ✔ **Classic & Interactive Reports**
 - ✔ **Interactive Grid (APEX 5.0 – 24.2)**
 - ✔ **Data Export & Import Utility**
@@ -36,40 +37,66 @@ With over 10 years of experience, I bring deep expertise in designing and develo
 - ✔ **Custom & Dynamic Master Menu Management**
 - ✔ **Custom & Dynamic Top Navigation Bar**
 - ✔ **Email Integration:**  
-  Email Verification, Transactions, Leave Approval, Forgot Password
+  Email Verification, Transactions, Leave Approvals, Forgot Password
 - ✔ **Social Sign-In Integration:**  
   Google, Facebook, LinkedIn, Azure AD / Entra ID
-- ✔ **Central Login Policy for Multiple Applications**
+- ✔ **Centralized Login for Multiple Applications**
 - ✔ **Third-party SSO Integration**
-
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Technical Skills & Tech Stack
 
-- 🔷 Oracle APEX, PL/SQL, SQL
-- 💻 JavaScript, HTML5, CSS3
-- 🌐 REST API, JSON, OAuth2
-- ☁️ Oracle Cloud Infrastructure
-- 🔐 SSO, Azure AD / Entra ID
+### 🔷 Web Technologies
+- Oracle APEX
+- Oracle Database (11g, 12c, 18c, 19c, 21c)
+- PHP, JavaScript, HTML5, XML, CSS3
+- Drupal, WordPress
+
+### 🛠️ Tools
+- SQL Developer
+- Oracle APEX Builder
+- TOAD
+- Adobe Dreamweaver
+
+### 🗄️ Databases
+- Oracle (11g – 21c)
+- MySQL
+
+---
+
+## 🧱 Tech Stack Overview
+
+- 🔷 **Oracle APEX**, **PL/SQL**, **SQL**
+- 💻 **JavaScript**, **HTML5**, **CSS3**
+- 🌐 **REST API**, **JSON**, **OAuth2**
+- ☁️ **Oracle Cloud Infrastructure**
+- 🔐 **SSO Integration**, **Azure AD / Entra ID**
 
 ---
 
 ## 🚀 Notable Projects
 
-- ✅ **Police Clearance Certificate** for **Bangladesh Police**
-- ✅ **Hospital Erp** for **Dhaka Community Hospital**
-- ✅ **Textile ERP** for **Akij Group**
-- ✅ **SaaS Sync Engine** with APEX & External APIs
+- ✅ **Police Clearance Certificate** – *Bangladesh Police*
+- ✅ **Hospital ERP** – *Dhaka Community Hospital*
+- ✅ **Textile ERP** – *Akij Group*
+- ✅ **SaaS Sync Engine** – *APEX + External APIs*
 
 ---
-
 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.facebook.com/sanzu.sikder"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://github.com/sanjaysikder/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sanjay-sikder/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/sanzusikder"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.facebook.com/sanzu.sikder" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sanjaysikder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sanjay-sikder/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/sanzusikder" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
