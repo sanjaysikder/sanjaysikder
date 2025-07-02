@@ -74,14 +74,32 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 - 🔐 **SSO Integration**, **Azure AD / Entra ID**
 
 ---
+## 🚀 Featured Projects
 
-## 🚀 Notable Projects
+### 👮‍♂️ Bangladesh Police
+- ✅ **Police Clearance Certificate System**
+- ✅ **Opinion / Complaint Management System**
 
-- ✅ **Police Clearance Certificate** – *Bangladesh Police*
-- ✅ **Opinion Or Complaint** – *Bangladesh Police*
-- ✅ **Hospital ERP** (Indoor, Outdoor, Lab, Pharmacy, Canteen, HRM, Payroll and Accounts) – *Dhaka Community Hospital*
-- ✅ **Textile ERP** – *Akij Group*
-- ✅ **SaaS Applications** (Trade Management System (Purchase, Sales, Inventory, Order and account), Booking Management System, Transport Management System, CRM, Assets Management, Hotel Management System, Accounts, Payroll, HRMS)– *OrclAPEX*
+### 🏥 Dhaka Community Hospital
+- ✅ **Hospital ERP System**  
+  *(Modules: Indoor, Outdoor, Lab, Pharmacy, Canteen, HRM, Payroll, Accounts)*
+
+### 🧵 Akij Group
+- ✅ **Textile ERP System**  
+  *(Comprehensive solution for textile production, inventory, HR, accounts, and logistics)*
+
+### ☁️ SaaS Applications (Low-Code / Oracle APEX)
+- ✅ **Trade Management System**  
+  *(Purchase, Sales, Inventory, Orders, Accounts)*
+- ✅ **Booking Management System**
+- ✅ **Transport Management System**
+- ✅ **Customer Relationship Management (CRM)**
+- ✅ **Assets Management System**
+- ✅ **Hotel Management System**
+- ✅ **Accounts & Finance**
+- ✅ **HRMS & Payroll**
+
+> 📌 All applications are built with **Oracle APEX**, using modern UI, REST APIs, secure authentication, multi-tenant support, and scalable architecture.
 
 ---
 
