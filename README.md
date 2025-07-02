@@ -75,9 +75,9 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 - ✅ **Hospital ERP System**  
   *(Modules: Indoor, Outdoor, Lab, Pharmacy, Canteen, HRM, Payroll, Accounts)*
 
-### 🧵 Akij Group
+### 🧵 Akij Insaf Group
 - ✅ **Textile ERP System**  
-  *(Comprehensive solution for textile production, inventory, HR, accounts, and logistics)*
+  *(Comprehensive ERP solution for the textile industry, covering Spinning, Weaving, Dyeing, and Finishing processes – including modules for Production Management, Inventory Control, Human Resources, Payroll, and Financial Accounting.)*
 
 ### ☁️ SaaS Applications (Low-Code / Oracle APEX)
 - ✅ **Trade Management System**  
