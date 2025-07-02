@@ -38,7 +38,7 @@ With over 10 years of experience, I bring deep expertise in designing and develo
 - ✔ **Email Integration:**  
   Email Verification, Transactions, Leave Approval, Forgot Password
 - ✔ **Social Sign-In Integration:**  
-  Google, Facebook, LinkedIn
+  Google, Facebook, LinkedIn, Azure AD / Entra ID
 - ✔ **Central Login Policy for Multiple Applications**
 - ✔ **Third-party SSO Integration**
 
