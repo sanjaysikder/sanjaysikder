@@ -12,7 +12,7 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 ---
 
 
-## 🧠 Oracle APEX Technology Summary
+## <span aria-hidden="true" class="fa fa-apex"></span> Oracle APEX Technology Summary
 
 | Category                | Experience & Tools                                                                 |
 |------------------------|-------------------------------------------------------------------------------------|
