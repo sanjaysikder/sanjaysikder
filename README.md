@@ -75,23 +75,22 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 > 📌 All applications are built with **Oracle APEX**, using modern UI, REST APIs, secure authentication, multi-tenant support, and scalable architecture.
 
 ---
+## 📲 Connect with Me
 
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sanjay-sikder/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+<p align="left">
+  <a href="https://www.facebook.com/sanzu.sikder" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2&gradient=linear-gradient(45deg,#1877F2,#0A5FDB)"/>
   </a>
   <a href="https://github.com/sanjaysikder" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sanjay-sikder/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&gradient=linear-gradient(45deg,#0A66C2,#004182)"/>
   </a>
   <a href="https://x.com/sanzusikder" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&gradient=linear-gradient(45deg,#1DA1F2,#0D8ECF)"/>
   </a>
-  <a href="https://www.facebook.com/sanzu.sikder" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40" alt="Facebook"/>
-  </a>
-</div>
+</p>
 
 ## 📫 Connect with Me
 
