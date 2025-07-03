@@ -76,6 +76,21 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 
 ---
 
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sanjay-sikder/">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sanjaysikder">
+    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/sanzusikder">
+    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+</div>
+
+
 ## 📫 Connect with Me
 
 <p align="left">
