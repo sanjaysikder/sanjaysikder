@@ -50,8 +50,8 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 
 | Category                | Experience & Tools                                                                 |
 |------------------------|-------------------------------------------------------------------------------------|
-| UI/UX                  | Universal Theme, Charts, Dynamic Menus, Navigation Bars, Calendar, Reports         |
-| Authentication         | Role-Based Login, Social Sign-In, Central Login, SSO (Azure AD / Entra ID)         |
+| UI/UX                  | Universal Theme, Custom Template, Charts, Dynamic Menus, Navigation Bars, Calendar, Reports         |
+| Authentication         | Role-Based Login, Social Sign-In (Google/Facebook/LinkedIn), SSO (Azure AD / Entra ID)         |
 | Backend Logic          | PL/SQL, Collections, App Processes, AJAX Callbacks, Dynamic Actions                |
 | Reporting              | Classic & Interactive Reports, Interactive Grids, HTML Print Reports               |
 | Integration            | ORDS, REST APIs, OAuth2, Payment & SMS Gateways                                    |
@@ -59,11 +59,24 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 | Utilities              | Data Import/Export, Email (Verification, Approval, Forgot Password)                |
 | Deployment Lifecycle   | Full SDLC Knowledge, Testing, Maintenance, Performance Optimization                |
 
+
+
+## 🧩 Oracle APEX Experience Highlights
+
+`✔ Universal Theme` `✔ APEX 5.0 – 24.2.2` `✔ Oracle DB 11g – 21c`  
+`✔ ORDS / REST APIs / OAuth2` `✔ AJAX Callbacks` `✔ Dynamic Actions`  
+`✔ Classic & Interactive Reports` `✔ Interactive Grid` `✔ Plugins`  
+`✔ Custom Calendar & Master Menu` `✔ Role-Based Login & Auth`  
+`✔ Payment / SMS Gateway Integration` `✔ Custom Email System`  
+`✔ Social Sign-In (Google, Facebook, LinkedIn, Azure)`  
+`✔ Central Login Across Apps` `✔ Full SDLC & Deployment Expertise`  
+`✔ Import / Export Utilities` `✔ APEX Upgrades & Maintenance`
+
 ---
 ## 💻 Technical Skills & Tech Stack
 
 ### 🔷 Web Technologies
-- Oracle APEX
+- Oracle APEX 5.0 – 24.2.2
 - Oracle Database (11g, 12c, 18c, 19c, 21c)
 - PHP, JavaScript, HTML5, XML, CSS3
 - Drupal, WordPress
