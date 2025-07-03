@@ -11,40 +11,6 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 
 ---
 
-## ✅ My Experience with Oracle APEX Technology
-
-- ✔ **Universal Theme**
-- ✔ **Oracle APEX Versions:** 5.0 – 24.2.2
-- ✔ **Oracle Database Versions:** 11g to 21c
-- ✔ **ORDS (Oracle REST Data Services)**
-- ✔ **Complete SDLC Understanding**
-- ✔ **RESTful APIs / OAuth2 / Web Services**
-- ✔ **AJAX Callbacks**
-- ✔ **APEX Version Upgrades**
-- ✔ **Charts & Graphs**
-- ✔ **Custom APEX Plugins**
-- ✔ **Printable HTML Reports**
-- ✔ **Third-party Payment Gateway Integration**
-- ✔ **SMS Gateway Integration**
-- ✔ **Dynamic Actions**
-- ✔ **Collections & Application Processes**
-- ✔ **Classic & Interactive Reports**
-- ✔ **Interactive Grid (APEX 5.0 – 24.2)**
-- ✔ **Data Export & Import Utility**
-- ✔ **Custom Multi-Functional Calendar**
-- ✔ **Custom User Login Management**  
-  *(Authentication & Role Management)*
-- ✔ **Custom & Dynamic Master Menu Management**
-- ✔ **Custom & Dynamic Top Navigation Bar**
-- ✔ **Email Integration:**  
-  Email Verification, Transactions, Leave Approvals, Forgot Password
-- ✔ **Social Sign-In Integration:**  
-  Google, Facebook, LinkedIn, Azure AD / Entra ID
-- ✔ **Centralized Login for Multiple Applications**
-- ✔ **Third-party SSO Integration**
-
----
-
 
 ## 🧠 Oracle APEX Technology Summary
 
@@ -59,18 +25,6 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 | Utilities              | Data Import/Export, Email (Verification, Approval, Forgot Password)                |
 | Deployment Lifecycle   | Full SDLC Knowledge, Testing, Maintenance, Performance Optimization                |
 
-
-
-## 🧩 Oracle APEX Experience Highlights
-
-`✔ Universal Theme` `✔ APEX 5.0 – 24.2.2` `✔ Oracle DB 11g – 21c`  
-`✔ ORDS / REST APIs / OAuth2` `✔ AJAX Callbacks` `✔ Dynamic Actions`  
-`✔ Classic & Interactive Reports` `✔ Interactive Grid` `✔ Plugins`  
-`✔ Custom Calendar & Master Menu` `✔ Role-Based Login & Auth`  
-`✔ Payment / SMS Gateway Integration` `✔ Custom Email System`  
-`✔ Social Sign-In (Google, Facebook, LinkedIn, Azure)`  
-`✔ Central Login Across Apps` `✔ Full SDLC & Deployment Expertise`  
-`✔ Import / Export Utilities` `✔ APEX Upgrades & Maintenance`
 
 ---
 ## 💻 Technical Skills & Tech Stack
