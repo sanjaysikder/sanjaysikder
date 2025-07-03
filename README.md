@@ -75,22 +75,24 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 > 📌 All applications are built with **Oracle APEX**, using modern UI, REST APIs, secure authentication, multi-tenant support, and scalable architecture.
 
 ---
-## 🌐 Let's Connect
+## 💬 Get in Touch
 
 <p align="left">
   <a href="https://www.facebook.com/sanzu.sikder" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&color=transparent&labelColor=transparent&border=2px_solid_%231877F2&borderRadius=12px"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000&color=1877F2&animation=glow"/>
   </a>
   <a href="https://github.com/sanjaysikder" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&color=transparent&labelColor=transparent&border=2px_solid_%23181717&borderRadius=12px"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=181717&animation=glow"/>
   </a>
   <a href="https://www.linkedin.com/in/sanjay-sikder/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=transparent&labelColor=transparent&border=2px_solid_%230A66C2&borderRadius=12px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0A66C2&animation=glow"/>
   </a>
   <a href="https://x.com/sanzusikder" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&color=transparent&labelColor=transparent&border=2px_solid_%231DA1F2&borderRadius=12px"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=1DA1F2&animation=glow"/>
   </a>
 </p>
+
+<sub>*Note: Glow animation requires GitHub dark mode for full effect</sub>
 
 ## 📫 Connect with Me
 
