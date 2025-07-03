@@ -19,8 +19,8 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 | UI/UX                  | Universal Theme, Custom Template, Charts, Dynamic Menus, Navigation Bars, Calendar, Reports         |
 | Authentication         | Role-Based Login, Social Sign-In (Google/Facebook/LinkedIn), SSO (Azure AD / Entra ID)         |
 | Backend Logic          | PL/SQL, Collections, App Processes, AJAX Callbacks, Dynamic Actions                |
-| Reporting              | Classic & Interactive Reports, Interactive Grids, HTML Print Reports               |
-| Integration            | ORDS, REST APIs, OAuth2, Payment & SMS Gateways                                    |
+| Reporting              | Classic & Interactive Reports, Interactive Grids, HTML Print Reports, PDF Report, BI Publisher              |
+| Integration            | ORDS, REST APIs, OAuth2, Payment & SMS Gateways, and Others Third Party API                                    |
 | Versioning             | APEX Version Upgrades (5.0 – 24.2.2), DB Versions (11g – 21c)                       |
 | Utilities              | Data Import/Export, Email (Verification, Approval, Forgot Password)                |
 | Deployment Lifecycle   | Full SDLC Knowledge, Testing, Maintenance, Performance Optimization                |
