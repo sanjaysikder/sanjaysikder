@@ -76,20 +76,22 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sanjay-sikder/">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sanjay-sikder/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/sanjaysikder">
-    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://github.com/sanjaysikder" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" alt="GitHub"/>
   </a>
-  <a href="https://x.com/sanzusikder">
-    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter" alt="Twitter"/>
+  <a href="https://x.com/sanzusikder" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40" alt="Twitter"/>
+  </a>
+  <a href="https://www.facebook.com/sanzu.sikder" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40" alt="Facebook"/>
   </a>
 </div>
-
 
 ## 📫 Connect with Me
 
