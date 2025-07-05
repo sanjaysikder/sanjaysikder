@@ -77,17 +77,47 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 ---
 ## 📲 Connect with Me
 
+## 🌐 Connect With Me
+
 <p align="left">
+  <!-- Facebook -->
   <a href="https://www.facebook.com/sanzu.sikder" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2&gradient=linear-gradient(45deg,#1877F2,#0A5FDB)"/>
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sanjay-sikder/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&gradient=linear-gradient(45deg,#0A66C2,#004182)"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
+  <!-- Twitter/X -->
   <a href="https://x.com/sanzusikder" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&gradient=linear-gradient(45deg,#1DA1F2,#0D8ECF)"/>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/sanjaysikder" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/YOUR_ID" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+  
+  <!-- Dev.to -->
+  <a href="https://dev.to/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  
+  <!-- Medium -->
+  <a href="https://medium.com/@YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  
+  <!-- YouTube -->
+  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
-
 
