@@ -101,20 +101,11 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
   </a>
   
   <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/YOUR_ID" target="_blank">
+  <a href="https://stackoverflow.com/users/9722983/sanjay-sikder?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
   
-  <!-- Dev.to -->
-  <a href="https://dev.to/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-  
-  <!-- Medium -->
-  <a href="https://medium.com/@YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  
+ 
   <!-- YouTube -->
   <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
