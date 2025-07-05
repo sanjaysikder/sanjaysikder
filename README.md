@@ -95,11 +95,6 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   
-  <!-- GitHub -->
-  <a href="https://github.com/sanjaysikder" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
   <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/9722983/sanjay-sikder?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
@@ -107,7 +102,7 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
   
  
   <!-- YouTube -->
-  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+  <a href="https://www.youtube.com/@OracleLearner" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
