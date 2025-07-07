@@ -77,8 +77,6 @@ With over **10 years of experience**, I bring deep expertise in Oracle database-
 ---
 ## 📲 Connect with Me
 
-## 🌐 Connect With Me
-
 <p align="left">
   <!-- Facebook -->
   <a href="https://www.facebook.com/sanzu.sikder" target="_blank">
