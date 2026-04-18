@@ -7,7 +7,6 @@
   />
 </h1>
 
----
 
 🌟 Passionate about building scalable, secure, high-performance, and user-friendly enterprise applications and SaaS products using Oracle APEX.
 
