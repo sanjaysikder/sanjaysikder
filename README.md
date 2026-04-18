@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sanjay Sikder</h1>
+<h1 align="center">Hi 👋, I'm 
+ <img src="https://readme-typing-svg.herokuapp.com?font=Bold&size=40&duration=3000&color=004AAD&center=true&vCenter=true&width=800&lines=Sanjay+Sikder" alt="Typing SVG" />
+</h1>
+
+
 <h3 align="center">Sr. Software Developer (#orclAPEX) @ Akij Insaf Group | Low-Code Expert | OCP | OCI Associate</h3>
 
 ---
