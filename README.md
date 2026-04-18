@@ -8,6 +8,11 @@
     alt="Typing SVG" />
 </h3>
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Medium&size=22&duration=4000&color=2E2E2E&center=true&vCenter=true&width=600&lines=Sr.+Software+Developer+(%23orclAPEX)+%40+Akij+Insaf+Group;Low-Code+Expert;Oracle+Certified+Professional" alt="Typing SVG" />
+</div>
+
 ---
 
 🌟 Passionate about building scalable, secure, high-performance, and user-friendly enterprise applications and SaaS products using Oracle APEX.
