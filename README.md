@@ -1,4 +1,6 @@
-<h1 align="center"> I'm <img src="https://readme-typing-svg.herokuapp.com?font=Bold&size=40&duration=3000&color=004AAD&center=true&vCenter=true&width=800&lines=Sanjay+Sikder" alt="Typing SVG" />
+<h1 align="center">
+  I'm 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bold&size=40&duration=3000&color=004AAD&center=true&vCenter=true&width=800&lines=Sanjay+Sikder" />
 </h1>
 
 
