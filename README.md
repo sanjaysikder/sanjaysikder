@@ -1,7 +1,7 @@
 <h1 align="center" style="color: white;">
   
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Bold&size=40&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=This is+Sanjay+Sikder" 
+    src="https://readme-typing-svg.herokuapp.com?font=Bold&size=40&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=This+is+,+Sanjay+Sikder" 
     alt="Typing SVG" 
   />
 </h1>
