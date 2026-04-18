@@ -4,7 +4,7 @@
 
 <h3 align="center" style="color: white;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Bold&size=14&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Sr.+Software+Developer+(%23orclAPEX)+%40+Akij+Insaf+Group+%7C+Low-Code+Expert+%7C+OCP" 
+    src="https://readme-typing-svg.herokuapp.com?font=Bold&size=16&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Sr.+Software+Developer+(%23orclAPEX)+%40+Akij+Insaf+Group+%7C+Low-Code+Expert+%7C+OCP" 
     alt="Typing SVG" />
 </h3>
 
