@@ -1,10 +1,10 @@
 <h1 align="center" style="color: white;">Hi, I'm Sanjay Sikder</h1>
 
+<h2 align="center">👨‍💻 Sr. Software Developer</h2>
+<h3 align="center">Oracle APEX | PL/SQL | Low-Code Expert</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-APEX-red?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/PLSQL-Developer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Low--Code-Expert-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Oracle-Certified-green?style=for-the-badge" />
+  📍 Akij Insaf Group &nbsp; | &nbsp; 🚀 Oracle Certified Professional
 </p>
 
 🌟 Passionate about building scalable, secure, high-performance, and user-friendly enterprise applications and SaaS products using Oracle APEX.
