@@ -1,6 +1,6 @@
 <h1 align="center" style="color: white;">Hi, I'm Sanjay Sikder</h1>
 
-<h2 align="center">👨‍💻 Sr. Software Developer</h2>
+<h2 align="center">👨‍💻 Sr. Software Developer (OrclAPEX) @ Akij Insaf Group</h2>
 <h3 align="center">Oracle APEX | PL/SQL | Low-Code Expert</h3>
 
 <p align="center">
