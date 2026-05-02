@@ -2,9 +2,9 @@
 <h1 align="center">
   <img src="https://img.shields.io/badge/Sr.%20Software%20Developer%20(%23orclAPEX)-%40%20Akij%20Insaf%20Group-00ff00?style=for-the-badge&logo=oracle&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/Low--Code%20Expert-%23orclAPEX-7800ff?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL%20Developer-orange?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20Certified%20Professional-gold?style=for-the-badge&logo=oracle&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Low--Code%20Expert-%23orclAPEX-00cc44?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL%20Developer-22dd55?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Certified%20Professional-88ff88?style=for-the-badge&logo=oracle&logoColor=black"/>
 </h1>
 <!--h1 align="center">
   <img src="https://img.shields.io/badge/Sr.%20Software%20Developer%20%40%20Akij%20Insaf%20Group-228B22?style=for-the-badge&logo=oracle&logoColor=white"/>
