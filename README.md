@@ -1,11 +1,12 @@
 <h1 align="center" style="color: white;">Hi, I'm Sanjay Sikder</h1>
 
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Sr+Software+Developer+%40+Akij+Insaf+Group;Low-Code+Expert;PL%2FSQL+Developer;Oracle+Certified+Professional" 
-    alt="Typing SVG" 
-  />
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-APEX-red?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/PLSQL-Developer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Low--Code-Expert-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle-Certified-green?style=for-the-badge" />
+</p>
+
 🌟 Passionate about building scalable, secure, high-performance, and user-friendly enterprise applications and SaaS products using Oracle APEX.
 
 I am an **Oracle APEX Professional** and **OCP-Certified Developer**, skilled in designing, developing, and integrating secure, scalable applications. I specialize in transforming complex business requirements into efficient, intuitive solutions—delivered on time using low-code (Oracle APEX) technology.
