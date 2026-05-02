@@ -1,12 +1,11 @@
 <h1 align="center" style="color: white;">Hi, I'm Sanjay Sikder</h1>
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Sr.%20Software%20Developer-@-Akij%20Insaf%20Group-%23f70000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Low--Code%20Expert-%23orclAPEX-7800ff?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL%20Developer-orange?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20Certified%20Professional-gold?style=for-the-badge&logo=oracle&logoColor=black"/>
-</h1>
+<p align="center">
+  <img src="https://readme-badges.vercel.app/api/badge?text=Sr.+Software+Developer+-+Akij+Insaf+Group&bg=red&color=white&style=for-the-badge" />
+  <img src="https://readme-badges.vercel.app/api/badge?text=Low-Code+Expert+(%23orclAPEX)&bg=purple&color=white&style=for-the-badge" />
+  <img src="https://readme-badges.vercel.app/api/badge?text=PL%2FSQL+Developer&bg=orange&color=white&style=for-the-badge" />
+  <img src="https://readme-badges.vercel.app/api/badge?text=Oracle+Certified+Professional&bg=gold&color=black&style=for-the-badge" />
+</p>
 
 🌟 Passionate about building scalable, secure, high-performance, and user-friendly enterprise applications and SaaS products using Oracle APEX.
 
