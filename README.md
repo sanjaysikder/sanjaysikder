@@ -2,11 +2,10 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Medium&size=22&duration=4000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Sr.+Software+Developer+(%23orclAPEX)+%40+Akij+Insaf+Group;Low-Code+Expert;PL%2FSQL+Developer;Oracle+Certified+Professional" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Sr.+Software+Developer+(%23orclAPEX)+%40+Akij+Insaf+Group;Low-Code+Expert;PL%2FSQL+Developer;Oracle+Certified+Professional" 
     alt="Typing SVG" 
   />
 </h1>
-
 
 🌟 Passionate about building scalable, secure, high-performance, and user-friendly enterprise applications and SaaS products using Oracle APEX.
 
