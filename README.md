@@ -1,11 +1,11 @@
 <h1 align="center" style="color: white;">Hi, I'm Sanjay Sikder</h1>
 
-<p align="center">
-  <img src="https://readme-badges.vercel.app/api/badge?text=Sr.+Software+Developer+-+Akij+Insaf+Group&bg=red&color=white&style=for-the-badge" />
-  <img src="https://readme-badges.vercel.app/api/badge?text=Low-Code+Expert+(%23orclAPEX)&bg=purple&color=white&style=for-the-badge" />
-  <img src="https://readme-badges.vercel.app/api/badge?text=PL%2FSQL+Developer&bg=orange&color=white&style=for-the-badge" />
-  <img src="https://readme-badges.vercel.app/api/badge?text=Oracle+Certified+Professional&bg=gold&color=black&style=for-the-badge" />
-</p>
+<h1 align="center">
+  👨‍💻 <strong>Sr. Software Developer</strong> @ Akij Insaf Group<br/>
+  🧩 <strong>Low-Code Expert</strong> | #orclAPEX<br/>
+  🛢️ <strong>PL/SQL Developer</strong><br/>
+  🎖️ <strong>Oracle Certified Professional</strong>
+</h1>
 
 🌟 Passionate about building scalable, secure, high-performance, and user-friendly enterprise applications and SaaS products using Oracle APEX.
 
